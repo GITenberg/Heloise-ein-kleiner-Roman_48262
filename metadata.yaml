@@ -1,16 +1,22 @@
 _repo: Heloise-ein-kleiner-Roman_48262
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Woltmann, Karl Ludwig von
       gutenberg_agent_id: '44705'
       url: http://www.gutenberg.org/2009/agents/44705
+covers:
+- cover_type: archival
+  image_path: 48262-h/images/cover.jpg
 creator:
   author:
     agent_name: Woltmann, Karoline von
     gutenberg_agent_id: '44704'
     url: http://www.gutenberg.org/2009/agents/44704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48262#Heloise-ein-kleiner-Roman
 gutenberg_issued: '2015-02-15'
 gutenberg_type: Text
 identifiers:
